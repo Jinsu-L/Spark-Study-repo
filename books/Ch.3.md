@@ -115,7 +115,7 @@
 
 [메소스 논문](https://amplab.cs.berkeley.edu/wp-content/uploads/2011/06/Mesos-A-Platform-for-Fine-Grained-Resource-Sharing-in-the-Data-Center.pdf)
 
-![image-20190724221922614](/Users/a1101099/Library/Application Support/typora-user-images/image-20190724221922614.png)
+![image-20190724221922614](http://www.mimul.com/pebble/default/images/blog/tech/mesos_architecture.jpg)
 
 * 메소스가 제공하는 서비스는 하나의 클러스터 자원을 여러 어플리케이션에서 공유해서 사용할 수 있게 해 주는 것
   * 특징은, 다양한 어플리케이션을 **"프레임워크"**라는 논리적인 컴포넌트로 인식하여, 하나의 서버에서 여러 어플리케이션을 실행하는 것처럼 환경을 제공
